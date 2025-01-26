@@ -1,5 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using DesignPatterns.Creational.Singleton;
+﻿using DesignPatterns.Structural.Bridge;
 
 new Client().Main();
