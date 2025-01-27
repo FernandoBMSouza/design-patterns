@@ -1,71 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\ferna\\onedrive\\documents\\estudos\\design-patterns\\designpatterns\\designpatterns\\structural\\bridge\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structural\\bridge\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\ferna\\onedrive\\documents\\estudos\\design-patterns\\designpatterns\\designpatterns\\structural\\bridge\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structural\\bridge\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\ferna\\onedrive\\documents\\estudos\\design-patterns\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Abstraction.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Bridge\\Abstraction.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Structural\\Bridge\\Abstraction.cs",
-              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Bridge\\Abstraction.cs",
-              "RelativeToolTip": "DesignPatterns\\Structural\\Bridge\\Abstraction.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T18:59:05.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Bridge\\Client.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Structural\\Bridge\\Client.cs",
-              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Bridge\\Client.cs",
-              "RelativeToolTip": "DesignPatterns\\Structural\\Bridge\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T18:55:37.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Program.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
-              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Program.cs",
-              "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T22:41:11.447Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

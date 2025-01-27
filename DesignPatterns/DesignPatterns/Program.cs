@@ -1,3 +1,3 @@
-﻿using DesignPatterns.Structural.Bridge;
+﻿using DesignPatterns.Structural.Decorator;
 
 new Client().Main();
