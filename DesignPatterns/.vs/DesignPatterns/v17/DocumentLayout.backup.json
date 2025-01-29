@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\ferna\\onedrive\\documents\\estudos\\design-patterns\\designpatterns\\designpatterns\\structural\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structural\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\ferna\\onedrive\\documents\\estudos\\design-patterns\\designpatterns\\designpatterns\\structural\\proxy\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structural\\proxy\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\ferna\\onedrive\\documents\\estudos\\design-patterns\\designpatterns\\designpatterns\\structural\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structural\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\ferna\\onedrive\\documents\\estudos\\design-patterns\\designpatterns\\designpatterns\\structural\\proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structural\\proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\ferna\\onedrive\\documents\\estudos\\design-patterns\\designpatterns\\designpatterns\\structural\\decorator\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\structural\\decorator\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\ferna\\onedrive\\documents\\estudos\\design-patterns\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2876BB-CFAF-4DF1-A428-E12A66DF1B18}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Decorator.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Decorator\\Decorator.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Structural\\Decorator\\Decorator.cs",
-              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Decorator\\Decorator.cs",
-              "RelativeToolTip": "DesignPatterns\\Structural\\Decorator\\Decorator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T12:54:35.717Z",
+              "WhenOpened": "2025-01-29T17:36:12.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConcreteComponent.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Decorator\\ConcreteComponent.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Structural\\Decorator\\ConcreteComponent.cs",
-              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Decorator\\ConcreteComponent.cs",
-              "RelativeToolTip": "DesignPatterns\\Structural\\Decorator\\ConcreteComponent.cs",
+              "DocumentIndex": 1,
+              "Title": "RealSubject.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Proxy\\RealSubject.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Structural\\Proxy\\RealSubject.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Proxy\\RealSubject.cs",
+              "RelativeToolTip": "DesignPatterns\\Structural\\Proxy\\RealSubject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T12:55:48.05Z",
+              "WhenOpened": "2025-01-29T17:36:06.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Decorator\\Client.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Structural\\Decorator\\Client.cs",
-              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Decorator\\Client.cs*",
-              "RelativeToolTip": "DesignPatterns\\Structural\\Decorator\\Client.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Proxy\\Client.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Structural\\Proxy\\Client.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documents\\Estudos\\design-patterns\\DesignPatterns\\DesignPatterns\\Structural\\Proxy\\Client.cs",
+              "RelativeToolTip": "DesignPatterns\\Structural\\Proxy\\Client.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T12:54:36.792Z",
+              "WhenOpened": "2025-01-29T17:28:00.239Z",
               "EditorCaption": ""
             }
           ]

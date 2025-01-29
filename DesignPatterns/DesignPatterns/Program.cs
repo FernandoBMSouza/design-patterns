@@ -1,3 +1,3 @@
-﻿using DesignPatterns.Structural.Decorator;
+﻿using DesignPatterns.Structural.Proxy;
 
 new Client().Main();

@@ -27,3 +27,6 @@ C:\Users\ferna\OneDrive\Documents\Estudos\design-patterns\DesignPatterns\DesignP
 C:\Users\ferna\OneDrive\Documents\Estudos\design-patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
 C:\Users\ferna\OneDrive\Documents\Estudos\design-patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.genruntimeconfig.cache
 C:\Users\ferna\OneDrive\Documents\Estudos\design-patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
+C:\Users\ferna\OneDrive\Documents\Estudos\design-patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ferna\OneDrive\Documents\Estudos\design-patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Estudos\design-patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPa.778FCB8E.Up2Date
